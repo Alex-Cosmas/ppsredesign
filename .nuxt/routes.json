@@ -1,0 +1,62 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\Alex\\\\Desktop\\\\Protec Projects\\\\ppsredesign\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index"
+  },
+  {
+    "name": "contacts",
+    "path": "/contacts",
+    "component": "C:\\\\Users\\\\Alex\\\\Desktop\\\\Protec Projects\\\\ppsredesign\\\\pages\\\\contacts\\\\index.vue",
+    "chunkName": "pages/contacts/index"
+  },
+  {
+    "name": "inventory",
+    "path": "/inventory",
+    "component": "C:\\\\Users\\\\Alex\\\\Desktop\\\\Protec Projects\\\\ppsredesign\\\\pages\\\\inventory\\\\index.vue",
+    "chunkName": "pages/inventory/index"
+  },
+  {
+    "name": "media",
+    "path": "/media",
+    "component": "C:\\\\Users\\\\Alex\\\\Desktop\\\\Protec Projects\\\\ppsredesign\\\\pages\\\\media\\\\index.vue",
+    "chunkName": "pages/media/index"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\Users\\\\Alex\\\\Desktop\\\\Protec Projects\\\\ppsredesign\\\\pages\\\\products\\\\index.vue",
+    "chunkName": "pages/products/index"
+  },
+  {
+    "name": "support",
+    "path": "/support",
+    "component": "C:\\\\Users\\\\Alex\\\\Desktop\\\\Protec Projects\\\\ppsredesign\\\\pages\\\\support\\\\index.vue",
+    "chunkName": "pages/support/index"
+  },
+  {
+    "name": "media-posts",
+    "path": "/media/:posts",
+    "component": "C:\\\\Users\\\\Alex\\\\Desktop\\\\Protec Projects\\\\ppsredesign\\\\pages\\\\media\\\\_posts\\\\index.vue",
+    "chunkName": "pages/media/_posts/index"
+  },
+  {
+    "name": "support-services-service",
+    "path": "/support/:services/service",
+    "component": "C:\\\\Users\\\\Alex\\\\Desktop\\\\Protec Projects\\\\ppsredesign\\\\pages\\\\support\\\\_services\\\\service.vue",
+    "chunkName": "pages/support/_services/service"
+  },
+  {
+    "name": "support-services-training",
+    "path": "/support/:services/training",
+    "component": "C:\\\\Users\\\\Alex\\\\Desktop\\\\Protec Projects\\\\ppsredesign\\\\pages\\\\support\\\\_services\\\\training.vue",
+    "chunkName": "pages/support/_services/training"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Alex\\\\Desktop\\\\Protec Projects\\\\ppsredesign\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
